@@ -1,9 +1,7 @@
 import os
 os.system("clear")
-x='\033[0;97mThis Tool has been Temporary Closed\nPlease Wait For Next Update'
-y='Authorized by : Muhammad Younis'
-z='For More About Author : https://bio.link/younis_dgk'
+x='\033[0;97mTool has been deleted permanently\nYounis john no mores updates on it'
+y='For More About Author : https://bio.link/younis_dgk'
 print(x)
 print(y)
-print(z)
 exit()
